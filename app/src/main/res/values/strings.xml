@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">exercicio0</string>
+    <string name="idade">Digite sua idade</string>
+    <string name="nome">Digite seu nome</string>
+    <string name="enviar">enviar</string>
+    <string name="homem">homem</string>
+    <string name="mulher">mulher</string>
+</resources>
